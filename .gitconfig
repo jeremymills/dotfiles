@@ -1,10 +1,10 @@
 [user]
-  name = Jason Bellamy
-  email = j@sonbellamy.com
+  name = Jeremy Mills
+  email = jeremy.mills89@gmail.com
 [core]
   editor = vim
 [github]
-  user = jasonbellamy
+  user = jeremymills
 [color]
   ui = auto
 [color "status"]
